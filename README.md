@@ -15,9 +15,9 @@
 
 ## Features of the Project
 
-### Data Collection: #### Aggregated from surveys, questionnaires, and reliable studies.
-### Data Analysis: #### Use of Excel functions like Pivot Tables, Charts, and Statistical Tools.
-### Visualization: #### Graphs, charts, and dashboards highlighting trends and key findings.
+#### Data Collection: Aggregated from surveys, questionnaires, and reliable studies.
+#### Data Analysis: Use of Excel functions like Pivot Tables, Charts, and Statistical Tools.
+#### Visualization: Graphs, charts, and dashboards highlighting trends and key findings.
 #### This project provides valuable insights for employers, educators, and industry aiming to better understand and engage with the emerging workforce of Gen Z.
 
 
