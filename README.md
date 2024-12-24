@@ -9,9 +9,9 @@ In this project,  we use excel which is serves as a versatile platform for colle
 
 ## The primary objectives are:
 
-To identify the key factors influencing career choices among Gen Z.
-To analyze trends in their career aspirations, such as preferred industries, work environments, and skill priorities.
-To present actionable insights through clear and concise data visualizations.
+#### To identify the key factors influencing career choices among Gen Z.
+#### To analyze trends in their career aspirations, such as preferred industries, work environments, and skill priorities.
+#### To present actionable insights through clear and concise data visualizations.
 
 ## Features of the Project
 
