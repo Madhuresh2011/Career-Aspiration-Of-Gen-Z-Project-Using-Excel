@@ -20,8 +20,7 @@ Columns to Consider:
 #### Mission Aspirations Dashboard
 This dashboard is designed to evaluate the respondents' clarity and alignment with their company's mission, as well as their preferences for socially impactful companies.
 
-Columns to Consider:
-
+Columns to Consider:..
 
 •	Mission Clarity in Company Evaluation
 •	Alignment of Company Mission and Actions
